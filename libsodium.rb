@@ -47,7 +47,7 @@ def find_sdks
 end
 
 # libsodium release version
-PKG_VER                 = "1.0.11"
+PKG_VER                 = "1.0.16"
 
 # Minimum platform versions
 IOS_VERSION_MIN         = 9.0
